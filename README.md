@@ -9,6 +9,6 @@ Keyword style is regrouped by type of keyword in SAS
 
 Special attention was put on single line comment and multi lines comments.
 
-if you use the star «*» comments at the end of a line containing statement, it is strongly recommended to put the last semi column «;» before the «*» with nothing in between. Like this «;*», in order to help Notepad++ to do the distinction betwwen the «*» used in mathematical expression from the «*» used for comments.
+if you use the star  *  comments at the end of a line containing statement, it is strongly recommended to put the last semi column «;» before the star  *  with nothing in between. Like this  ;* , in order to help Notepad++ to do the distinction betwwen the star *  used in mathematical expression from the star *  used for comments.
 
-I've not find yet any other method to tell Notepad++ to deal with the «*» comments.
+I've not find yet any other method to tell Notepad++ to deal with the « * » comments.
