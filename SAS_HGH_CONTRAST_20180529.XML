@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="SAS_HICONT_20180529" ext="sas SAS" udlVersion="2.1"> 
+    <UserLang name="SAS_HICONT_20180529" ext="sas SAS" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="yes" foldCompact="no" forcePureLC="2" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="yes" />
