@@ -12,3 +12,7 @@ Special attention was put on single line comment and multi lines comments.
 if you use the star  *  comments at the end of a line containing statement, it is strongly recommended to put the last semi column «;» before the star  *  with nothing in between. Like this  ;* , in order to help Notepad++ to do the distinction betwwen the star *  used in mathematical expression from the star *  used for comments.
 
 I've not find yet any other method to tell Notepad++ to deal with the « * » comments.
+
+For all dark background color syntax it's strongly suggested to set Notepad++ theme to "Deep Black"
+Go to menu "Settings" >> "Style configurator..." >> "Select theme: "  >>  "Deep Black".
+Apply this to "Language: Global Styles" and "Style: Global override".
