@@ -10,7 +10,7 @@
             <Keywords name="Numbers, prefix2"></Keywords>
             <Keywords name="Numbers, extras1"></Keywords>
             <Keywords name="Numbers, extras2"></Keywords>
-            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords> 
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range">--</Keywords>
             <Keywords name="Operators1">- ! ( ) , . : ; ? @ [ \ ] ^ ` { | } ~ + &lt; &gt; ^= ~= &#x00AC;= &lt;= =&gt; &#x00AC; * / ** &lt;&gt; &gt;&lt; || &#x00B0; # =* =: =</Keywords>
