@@ -16,3 +16,9 @@ I've not find yet any other method to tell Notepad++ to deal with the « * » co
 For all dark background color syntax it's strongly suggested to set Notepad++ theme to "Deep Black"
 Go to menu "Settings" >> "Style configurator..." >> "Select theme: "  >>  "Deep Black".
 Apply this to "Language: Global Styles" and "Style: Global override".
+
+- Add Excel file with almost all SAS keywords by category and Notepad++ Syntax coloring group number.
+  Fell free to use it for others syntax coloring software and please mention that the list of keywords
+  is from here "https://github.com/Bruno-Dionne/Notepad-UDL2---User-defined-Language-for-SAS".
+  Thanks.
+
