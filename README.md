@@ -11,7 +11,8 @@ Special attention was put on single line comment and multi lines comments.
 
 if you use the star  *  comments at the end of a line containing statement, it is strongly recommended to put the last semi column «;» before the star  *  with nothing in between. Like this  ;* , in order to help Notepad++ to do the distinction betwwen the star *  used in mathematical expression from the star *  used for comments.
 
-I've not find yet any other method to tell Notepad++ to deal with the « * » comments.
+Using the special operator (( )) and manual edition of the .XML file, Notepad++ almost fully support the special «*», «%*», «comment» comments.
+The «;» gluing mentionned above will be almost never needed. Ensure you don't have any «SPACE» characters at the end of all comment lines.
 
 For all dark background color syntax it's strongly suggested to set Notepad++ theme to "Deep Black"
 Go to menu "Settings" >> "Style configurator..." >> "Select theme: "  >>  "Deep Black".
@@ -22,3 +23,4 @@ Apply this to "Language: Global Styles" and "Style: Global override".
   is from here "https://github.com/Bruno-Dionne/Notepad-UDL2---User-defined-Language-for-SAS".
   Thanks.
 
+Bruno Dionne
